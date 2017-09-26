@@ -11,7 +11,7 @@ Experiments for Empirical critical values
 
 ### EXPERIMENTS
 
-All the experiments except the wild bootstrap and wild bootstrap
+All the experiments except the wild bootstrap and wild cluster bootstrap
 
 ### EXPWARP
 
