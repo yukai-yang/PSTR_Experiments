@@ -2,6 +2,10 @@
 Experiments for the Panel Smooth Transition Regression Models
 -------------------------------------------------------------
 
+provides R codes for all the experiments (size and power, LM tests, wild bootstrap and wild cluster bootstrap tests) in the paper "Panel Smooth Transition Regression Models".
+
+In the following, you can find the descriptions for all folders. In each folder, you can find the codes. For more details about the codes, open and read the comments part in the header part.
+
 ### EXPECV
 
 Experiments for Empirical critical values
