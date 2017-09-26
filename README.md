@@ -12,7 +12,7 @@ In the following, you can find the descriptions for all folders. In each folder,
 
 ### EXPECV
 
-Experiments for Empirical critical values
+Experiments for empirical critical values
 
 -   size, to sample from the null hypothesis
 -   the power of homogeneity test
