@@ -36,3 +36,7 @@ All the experiments for wild bootstrap
 ### WBSIZE 1-2
 
 Experiments for size of homogeneity test
+
+### Results
+
+PDF file containing the results from the experiments in addition to the results in the paper
