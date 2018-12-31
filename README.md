@@ -2,6 +2,8 @@
 Experiments for the Panel Smooth Transition Regression Models
 -------------------------------------------------------------
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2529537.svg)](https://doi.org/10.5281/zenodo.2529537)
+
 provides R codes for all the experiments (size and power, LM tests, wild bootstrap and wild cluster bootstrap tests) in the paper "Panel Smooth Transition Regression Models".
 
 I wrote the codes when I was working as a post-doc at CORE, Université catholique de Louvain, Belgium, in 2014.
